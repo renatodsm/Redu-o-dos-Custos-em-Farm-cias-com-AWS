@@ -51,4 +51,4 @@ Serviços AWS mencionados:
 
 Assinatura do Responsável pelo Projeto:
 
-[Renato da Silva Mesquita
+Renato da Silva Mesquita
