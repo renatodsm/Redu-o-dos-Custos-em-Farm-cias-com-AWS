@@ -1,14 +1,14 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-
-Data: [15/04/2024 a 05/05/2024
+---
+Data: 15/04/2024 a 05/05/2024
 Empresa: AbstergoLabs 
-Responsável: [Renato Mesquita
-
+Responsável: Renato da Silva Mesquita
+---
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa AbstergoLabs, realizado por Renato da Silva Mesquita pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 A diretoria reconhece a importância de otimizar os custos e melhorar a eficiência operacional para garantir a competitividade e o sucesso contínuo da empresa. Neste relatório, exploramos como a adoção dos serviços da Amazon Web Services (AWS) pode contribuir significativamente para alcançar esses objetivos. Vamos analisar os benefícios financeiros e operacionais esperados com a implementação da AWS em diferentes áreas de negócios 
-
+---
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
@@ -35,7 +35,7 @@ Principais Setores de Negócios Beneficiados:
 3.	Tomada de Decisão Estratégica: O Amazon RDS fornecerá à diretoria uma plataforma confiável e econômica para armazenamento e análise de dados, permitindo decisões mais informadas e estratégicas para o crescimento sustentável.
 
 
-
+---
 ## Conclusão
 A implementação da AWS oferece uma oportunidade significativa de reduzir custos operacionais, melhorar a eficiência e impulsionar o crescimento. Ao adotar serviços como Amazon S3, EC2 e RDS, a empresa está alinhada com sua estratégia de oferecer serviços de alta qualidade de forma eficiente e econômica, garantindo sua posição de destaque no mercado.
 
